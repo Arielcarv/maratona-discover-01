@@ -2,16 +2,22 @@
 
 # Maratona Discover 1.0
 
-Projeto desenvolvido pelo: [Mayk Brito](https://github.com/maykbrito)
+Projeto desenvolvido pelo: [Mayk Brito](https://github.com/maykbrito). Com o objetivo de passar princípios básicos de HTML, CSS e JavaScript.
 
 ![banner](./prints/discover-banner.png)
 
 <br>
 
-
 <h1 align="center">
   <img alt="dev.finances" title="dev.finances" src="./prints/logo.svg" width="220px" />
 </h1>
+
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
 ## Home Page
 ![home page](./prints/home-screen.png)
