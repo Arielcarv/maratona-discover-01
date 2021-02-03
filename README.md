@@ -1,22 +1,22 @@
-<h1 align="center">
-  <img alt="dev.finances" title="dev.finances" src="./prints/logo.svg" width="220px" />
-</h1>
+
 
 # Maratona Discover 1.0
 
 Projeto desenvolvido pelo: [Mayk Brito](https://github.com/maykbrito)
 
+![banner](./prints/discover-banner.png)
 
 <br>
 
-![banner](./prints/discover-banner.png)
+
+<h1 align="center">
+  <img alt="dev.finances" title="dev.finances" src="./prints/logo.svg" width="220px" />
+</h1>
 
 ## Home Page
-
 ![home page](./prints/home-screen.png)
 
 ## Modal Overlay
-
 ![overlay](./prints/modal-screen.png)
 
 ## 🚀 Tecnologias
