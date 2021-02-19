@@ -90,6 +90,7 @@ button:hover {
 .button.new {
     display: inline-block;
     margin-bottom: 0.8rem;
+    border: #000000;
 }
 
 .button.cancel {
