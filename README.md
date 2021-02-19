@@ -57,6 +57,6 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 --- 
 ### Créditos
 
-Feito com ♥ by Rocketseat :wave: [Participe da comunidade!](https://discordapp.com/invite/gCRAFh
+Feito com ♥ by Rocketseat :wave: [Participe da comunidade!](https://discordapp.com/invite/gCRAFh)
 
 ![maratona](./prints/2560x1080.png)
