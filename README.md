@@ -40,11 +40,11 @@ O dev.finances é uma aplicação de controle financeiro, onde é possível cada
 
 ## 🤖 Deployment
 
-Deploy no Vercel APP nos seguintes links: </h3>
+Deploy no Vercel APP nos seguintes links:
 
-- maratona-discover-01-chi.vercel.app
-- maratona-discover-01.arielcarv.vercel.app
-- maratona-discover-01-git-main.arielcarv.vercel.app
+- [Link 1](https://maratona-discover-01-chi.vercel.app)
+- [Link 2](https://maratona-discover-01.arielcarv.vercel.app)
+- [Link 3](https://maratona-discover-01-git-main.arielcarv.vercel.app)
   
 ## 🔖 Layout
 
