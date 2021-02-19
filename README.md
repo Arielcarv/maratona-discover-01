@@ -15,6 +15,7 @@ Projeto desenvolvido pelo: [Mayk Brito](https://github.com/maykbrito). Com o obj
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-deployment">Deployment</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
@@ -37,6 +38,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O dev.finances é uma aplicação de controle financeiro, onde é possível cadastrar e excluir transações e ver o saldo de entrada e saída 💰
 
+## 🤖 Deployment
+
+Deploy no Vercel APP nos seguintes links: </h3>
+
+- maratona-discover-01-chi.vercel.app
+- maratona-discover-01.arielcarv.vercel.app
+- maratona-discover-01-git-main.arielcarv.vercel.app
+  
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/7Vu9DzUaCZIV4nibzkjgB4/dev.finance%24-Maratona-Discover). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
