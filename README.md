@@ -20,10 +20,10 @@ Projeto desenvolvido pelo: [Mayk Brito](https://github.com/maykbrito). Com o obj
 </p>
 
 ## Home Page
-![home page](./prints/home-screen.png)
+![home page](./prints/home-screen-mod.png)
 
 ## Modal Overlay
-![overlay](./prints/modal-screen.png)
+![overlay](./prints/modal-screen-mod.png)
 
 ## 🚀 Tecnologias
 
